@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/naivebayes.dir/src/pretraining.cpp.o CMakeFiles/naivebayes.dir/src/main.cpp.o CMakeFiles/naivebayes.dir/src/training.cpp.o CMakeFiles/naivebayes.dir/src/classification.cpp.o  -o naivebayes 

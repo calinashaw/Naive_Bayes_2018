@@ -1,1 +1,2 @@
-# Naive_Bayes_2018
+# naivebayes
+Naive Bayes Classifier 

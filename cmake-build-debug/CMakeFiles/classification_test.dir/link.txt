@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/classification_test.dir/test/classificationtest.cpp.o CMakeFiles/classification_test.dir/src/pretraining.cpp.o CMakeFiles/classification_test.dir/src/training.cpp.o CMakeFiles/classification_test.dir/src/classification.cpp.o  -o classification_test 

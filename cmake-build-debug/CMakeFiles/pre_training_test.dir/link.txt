@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pre_training_test.dir/test/pretrainingtest.cpp.o CMakeFiles/pre_training_test.dir/src/pretraining.cpp.o  -o pre_training_test 

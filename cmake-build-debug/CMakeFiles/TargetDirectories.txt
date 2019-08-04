@@ -1,0 +1,6 @@
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/naivebayes.dir
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/classification_test.dir
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/pre_training_test.dir
+/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/CMakeFiles/training_test.dir

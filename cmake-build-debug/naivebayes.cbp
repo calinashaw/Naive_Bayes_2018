@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="naivebayes" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="naivebayes">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/naivebayes" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 naivebayes" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="naivebayes/fast">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/naivebayes" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 naivebayes/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="classification_test">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/classification_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 classification_test" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="classification_test/fast">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/classification_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 classification_test/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="pre_training_test">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/pre_training_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 pre_training_test" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="pre_training_test/fast">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/pre_training_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 pre_training_test/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="training_test">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/training_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 training_test" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="training_test/fast">
+         <Option output="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/training_test" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 training_test/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/h_files/classification.h">
+         <Option target="naivebayes"/>
+         <Option target="classification_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/h_files/pretraining.h">
+         <Option target="naivebayes"/>
+         <Option target="pre_training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/h_files/training.h">
+         <Option target="naivebayes"/>
+         <Option target="training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/src/classification.cpp">
+         <Option target="naivebayes"/>
+         <Option target="classification_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/src/main.cpp">
+         <Option target="naivebayes"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/src/pretraining.cpp">
+         <Option target="naivebayes"/>
+         <Option target="classification_test"/>
+         <Option target="pre_training_test"/>
+         <Option target="training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/src/training.cpp">
+         <Option target="naivebayes"/>
+         <Option target="classification_test"/>
+         <Option target="training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/test/catch.hpp">
+         <Option target="classification_test"/>
+         <Option target="pre_training_test"/>
+         <Option target="training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/test/classificationtest.cpp">
+         <Option target="classification_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/test/pretrainingtest.cpp">
+         <Option target="pre_training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/test/trainingtest.cpp">
+         <Option target="training_test"/>
+      </Unit>
+      <Unit filename="/mnt/c/Users/cshaw/CLionProjects/naivebayes-cshaw16/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
